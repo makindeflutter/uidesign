@@ -4,6 +4,7 @@ main() {
   runApp(MaterialApp(
     title: 'UI',
     home: FavouriteCity(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
